@@ -26,11 +26,11 @@ layout: default
 {% if site.paginate %}
 <div class="pagination">
     {% if paginator.previous_page %}
-    <a href="{{ site.url }}{{ site.baseurl }}{{ paginator.previous_page_path }}" title="Newer Posts" class="newer">Newer</a>
+    <a href="{{ site.baseurl }}{{ paginator.previous_page_path }}" title="Newer Posts" class="newer">Newer</a>
     {% endif %}
 	
     {% if paginator.next_page %}
-    <a href="{{ site.url }}{{ site.baseurl }}{{ paginator.next_page_path }}" title="Older Posts" class="older">Older</a>
+    <a href="{{ site.baseurl }}{{ paginator.next_page_path }}" title="Older Posts" class="older">Older</a>
     {% endif %}
 </div>
 {% endif %}
