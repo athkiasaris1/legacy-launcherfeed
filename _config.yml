@@ -1,8 +1,8 @@
 # Name of your site (displayed in the header)
-name: Minecraft News
+name: MCPROGAMERS Client News!
 
 # Short bio or description (displayed in the header)
-description: Unofficial Minecraft update news. Serves as an updated version of the old MCUpdate blog.
+description: The official news from the developers of the client on the launcher.
 
 #
 # Flags below are optional
@@ -14,13 +14,13 @@ disqus:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://mclaunch.github.io
+url: athkiasaris1.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/mcupdate"
+baseurl: "/mcprogamers-launcher-feed/clientupdate"
 
 permalink: /post/:title/
 
